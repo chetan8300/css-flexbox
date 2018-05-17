@@ -1,0 +1,55 @@
+
+.container {
+	color: white;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	/*border: 10px black solid;*/
+	justify-content: space-around;
+}
+
+h1 {
+	text-align: center;
+	margin: 0;
+}
+
+.box {
+	width: 330px;
+}
+
+.div1{
+	background-color: #FF0000;
+}
+
+.div2{
+	background-color: #FFA500;
+}
+
+.div3{
+	background-color: #FFFF00;
+}
+
+.div4{
+	background-color: #efef53;
+}
+
+.div5{
+	background-color: #90EE90;
+}
+
+.div6{
+	background-color: #008000;
+}
+
+.div7{
+	background-color: #00FFFF;
+}
+
+.div8{
+	background-color: #ADD8E6;
+}
+
+.div9{
+	background-color: #800080;
+}
+
